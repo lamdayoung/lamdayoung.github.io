@@ -40,8 +40,8 @@ color:#fff; box-sizing:border-box; padding-left:50px; margin-bottom:3px; transit
 /* sns 버튼 모음 */
 #sns {position:fixed; top:60px; right:50px;}
 #sns li {float:left; margin-right:30px;}
-#sns .fa {font-size:25px; color:#fff; opacity:0.5; transform:scale(1); transition:all 0.5s;}
-#sns .fa:hover {opacity:1; transform:scale(1.6);}
+#sns .fa-brands {font-size:25px; color:#fff; opacity:0.5; transform:scale(1); transition:all 0.5s;}
+#sns .fa-brands:hover {opacity:1; transform:scale(1.6);}
 
 /* 텍스트 박스 */
 .txtBox {width:300px; height:280px; position:fixed; top:100px; right:50px;}
